@@ -23,7 +23,7 @@ export default function
                 <img src={CsGoBlack} alt="" />
                 <img src={CsGo} alt="" />
             </div>
-            <img className='join' src={Join} alt="" />
+            <a href=""><img className='join' src={Join} alt=""/></a>
         </div>
     )
 }
